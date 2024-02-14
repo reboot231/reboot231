@@ -2,7 +2,7 @@
 -  I’m interested in programming
 - 🌱 I’m currently learning java, haskell
 -  I’m looking to collaborate on domon41c
-- 📫 How to reach me vadkov1212@gmail.com
+- 📫 How to reach me watchdogf2@gmail.com
 -  Pronouns: bootx64.efi, reboot, lobster
 
 <!---
